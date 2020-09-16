@@ -1,0 +1,255 @@
+body{
+  background-color: #f4f4f4;
+  margin: 0;
+}
+
+
+.mobile{
+  background-color: white;
+  margin-right: 775px;
+  margin-left: 300px;
+  margin-top: 80px;
+  padding: 15px;
+  width: 300px;
+  border-radius: 15px;
+  height: 585px;
+
+}
+
+.chat-info{
+  background: linear-gradient(to right, #9818d6 32%, #cc3399 121%);
+  height: 80px;
+  border-radius: 20px 20px 5px 5px;
+}
+
+.chat-name{
+  display:inline;
+  font-size: 1em;
+  color: white;
+  float:left;
+  margin : 10px 0 0px 10px;
+  font-family: 'Baloo Tammudu 2', cursive;
+  height: 25px;
+}
+
+#chat-name{
+  font-size: 0.70em;
+  color: white;
+  padding: 20px 60px 0 50px;
+  float : left;
+  padding: 0 80px 0 10px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.more{
+  color: white;
+  float: right;
+  margin-top: 20px;
+  margin-right: 15px;
+}
+
+.avatar-img{
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline;
+  margin-top: 20px;
+  margin-left: 15px;
+  float: left;
+}
+
+.rectangle{
+  height: 20px;
+  width: 160px;
+  background-color:white;
+  align-self: center;
+  margin-left: 70px;
+  border-radius: 0 0 5px 5px;
+}
+.chat-wallpaper{
+  background-color: #f4f4f4;
+  width: 300px;
+  height: 585px;
+  border-radius: 15px;
+
+}
+.dog-img{
+  display: inline-block;
+  border-radius: 10%;
+  width: 50px;
+  height: 50px;
+
+
+}
+
+
+.message{
+  width: 190px;
+  margin-left: 10px;
+  background-color: #e3dfc8;
+  font-family: 'Nanum Gothic', sans-serif;
+  color:  #9818d6;
+}
+
+.right-msg{
+  margin-left: 80px;
+}
+.message1{
+  font-size: 0.75em;
+  margin-top: 10px;
+  padding: 10px 10px 10px 10px;
+  height: 30px;
+  border-radius: 15px 15px 15px 0;
+}
+.message2{
+  font-size: 0.75em;
+  padding: 10px 10px 10px 10px;
+  margin-top: 10px;
+  height: 30px;
+  border-radius: 15px 15px 15px 0;
+}
+.message3{
+  font-size: 0.75em;
+  padding: 10px 10px 10px 10px;
+  margin-top: 5px;
+  height: 30px;
+  border-radius: 15px 15px 0 15px;
+}
+.message4{
+  font-size: 0.75em;
+  padding: 10px 10px 10px 5px;
+  margin-top: 10px;
+  height: 17px;
+  border-radius: 15px 15px 0 15px;
+  width:140px;
+  margin-left: 135px;
+}
+
+.message5{
+  font-size: 0.75em;
+  padding: 10px 10px 10px 10px;
+  margin-top: 10px;
+  height: 37px;
+  border-radius: 15px 15px 15px 0;
+}
+.message6{
+  font-size: 0.70em;
+  padding: 5px 5px 5px 10px;
+  margin-top: 10px;
+  height: 25px;
+  background: linear-gradient(to left, #9818d6 2%, #cc3399 84%);
+  width: 190px;
+  margin-left: 10px;
+  border-radius: 15px 15px 15px 0;
+  font-family: 'Nanum Gothic', sans-serif;
+  color: white;
+}
+.message7{
+  font-size: 0.70em;
+  padding: 5px 5px 5px 10px;
+  margin-top: 10px;
+  height: 25px;
+   background: linear-gradient(to left, #9818d6 2%, #cc3399 84%);
+   width: 190px;
+   margin-left: 10px;
+   border-radius: 15px 15px 15px 0;
+   font-family: 'Nanum Gothic', sans-serif;
+   color: white;
+
+
+}
+.amt-1{
+  margin-left: 50px;
+  display: inline;
+  text-decoration-color: white;
+  font-size: 1.5em;
+
+
+
+}
+.amt-2{
+  margin-left: 70px;
+  display: inline;
+  height: 30px;
+  font-size: 1.5em;
+}
+.type-msg{
+  background-color: white;
+  color:  #8d93ab;
+  margin: 10px 10px 10px 0px;
+  height:25px;
+  padding: 10px 0 10px 20px;
+  border-radius: 50px;
+  margin-left: 10px;
+
+}
+.send{
+
+  width: 33px;
+  height: 30px;
+  float: right;
+  margin-right: 10px;
+
+
+
+}
+.bg-design{
+  background-color: #9818d6;
+  width: 380px;
+  height: 730px;
+  margin-right: 800px
+  display: inline-block;
+  float: left;
+  border-radius: 0 0 320px 0px;
+
+}
+
+
+.bg-design2{
+  background-color: #e6e6e6;
+  display: inline-block;
+  float: right;
+  border-radius:  320px 0px 0 0;
+  width: 350px;
+  height: 750px;
+  margin-top: 85px;
+
+}
+.attribution {
+    font-size: 11px; text-align: center;
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    position: relative;
+    margin-top: 780px;
+    margin-left: 300px;
+
+}
+.copyright{
+  position: absolute;
+  bottom: 0;
+  font-size: 1.5em;
+  color: #8c8c8c;
+}
+
+.description{
+  width:420px;
+  height: 200px;
+  display: inline-block;
+  margin-top: 200px;
+  margin-left: 400px;
+  position: absolute;
+  z-index: 1;
+}
+.intro-head{
+  font-family: 'Roboto', sans-serif;
+
+}
+.intro-body{
+ color: #8c8c8c;
+ font-family: 'Baloo Tammudu 2', cursive;
+ line-height: 20px;
+ display: inline-block;
+ font-size: 1.20em;
+ z-index: 1;
+}
